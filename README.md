@@ -1,5 +1,5 @@
-## What's up! Welcome to my museum
-My name is Safak Inan and I am a Software Engineer. I mostly developed in web and mobile and currently am studying Data Science.
+## What's up! Welcome to my dump
+My name is Safak Inan and I am a Software Engineer.
 
 ## Stuff I am proud of
 - :video_game: Look at your League of Legends profile with [Instalock!](https://github.com/ItsMeSafak/Instalock)
